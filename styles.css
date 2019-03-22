@@ -1,0 +1,347 @@
+body {
+    color: white;
+    text-align: center;
+    background-image:url("https://wallpapersite.com/images/wallpapers/pokemon-go-3840x2160-red-yellow-green-blue-purple-grey-4k-1356.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    width:100%;
+    height:200px;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p {
+    font-size:20px;
+    font-family: 'Economica', sans-serif;
+}
+
+.types {
+    display: none;   
+    margin: auto; 
+}
+.pokebutton {
+    text-align: center;
+    padding:10px;  
+}
+.container{
+    width: 71%;
+    padding: 10px;
+    margin: 50px auto;
+    border: 5px solid #3399FF;
+    border-radius: 20px;
+    margin: 0 auto;
+    
+}
+.pokemane {
+        width:1300px;
+        height: 500px;
+}
+.pokebutton1 {
+       background-image:url("http://i.imgur.com/piS0uMA.png");
+       padding: 50px 80px;
+       background-size:100%;
+}
+.pokebutton2 {
+       background-image:url("http://i.imgur.com/piS0uMA.png");
+       padding: 50px 80px;
+       background-size:100%;
+}
+.pokebutton3 {
+       background-image:url("http://i.imgur.com/piS0uMA.png");
+       padding: 50px 80px;
+       background-size:100%;
+}
+.pokebutton4 {
+       background-image:url("http://i.imgur.com/piS0uMA.png");
+       padding: 50px 80px;
+       background-size:100%;
+}
+.pokebutton5 {
+       background-image:url("http://i.imgur.com/piS0uMA.png");
+       padding: 50px 80px;
+       background-size:100%;
+}
+.resetButton {
+        display:none;
+       background-image:url("http://i.imgur.com/piS0uMA.png");
+       padding: 50px 80px;
+       background-size:100%;
+}
+.pokebutton1:hover {
+    border:5px solid;
+    transition:border 2s;
+}
+.pokeh1 {
+    color:Red;   
+}
+.pokeQ1 {
+    display: none;
+    justify-content:center;
+}
+.pokeQ2 {
+    display: none;
+    justify-content:center;
+}
+.pokeQ3 {
+    display: none;
+    justify-content:center;
+}
+.pokeQ4 {
+    display: none;
+    justify-content:center;
+}
+.pokeAnswer {
+    display: none;
+    justify-content:center;
+}
+.pokeinput1 {
+    width:400px;   
+    padding: 30px 50px;
+    font-size:40px;
+}
+.pokeinput2 {
+    width:400px;   
+    padding: 30px 50px;
+    font-size:40px;
+}
+.pokeinput3 {
+    width:400px;   
+    padding: 30px 50px;
+    font-size:40px;
+}
+.pokeinput4 {
+    width:400px;   
+    padding: 30px 50px;
+    font-size:40px;
+}
+.pokeQuestionFont1 {
+      font-family: 'Economica', sans-serif;
+      font-size: 50px;
+      color:white;
+}
+.pokeQuestionFont2 {
+      font-family: 'Economica', sans-serif;
+      font-size: 50px;
+      color:white;
+}
+.pokeQuestionFont3 {
+      font-family: 'Economica', sans-serif;
+      font-size: 50px;
+      color:white;
+}
+.pokeQuestionFont4 {
+      font-family: 'Economica', sans-serif;
+      font-size: 50px;
+      color:white;
+}
+.charmander {
+    display:none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.bulbasaur {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.squirtle {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.pikapika {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.mew2 {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.chikorita {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.totodile {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.cyndaquil {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.torchic {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.treecko {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.mudkip {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.chimchar {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.piplup {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.turtwig {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.tepig {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.oshawott {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.snivy {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.chespin {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.fennekin {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.froakie {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.popplio {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.rowlet {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.litten {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.grookey {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.sobble {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.scorbunny {
+    display: none;
+    width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
